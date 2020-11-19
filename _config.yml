@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Helmy Fikri Husein
 subtitle: ""
-description: ""
+description: "Good Boy"
 keywords:
-author: John Doe
+author: Helmy Fikri Husein
 language: en
 timezone: ""
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://helmyfikrih.github.io
+url: http://helmyfikrih.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -103,4 +103,7 @@ theme: obsidian
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ""
+  type: git
+  repo: https://github.com/helmyfikrih/helmyfikrih.github.io
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: gh-pages
