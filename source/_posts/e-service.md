@@ -1,23 +1,25 @@
 ---
-title: 1.	E-Service System
+title: E-Service System
 categories:
-  - WEB APP
-  - Portofolio
+  - WEB-APP
 tags:
   - PHP
   - Codeigniter
+  - Documentation
 cover: https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/login.png
 date: 2020-11-19 17:20:12
 preview: 425
+documentation:
+  - E-Service
 ---
 
 ![](https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/login.png)
 
 # Pengantar
 
-E-Service atau Layanan Online merupakan aplikasi yang saya buat sebagai hasil dari penelitian skripsi saya dengan objek penelitian yaitu Prodi Sistem Informasi UIN Syarif Hidayatullah Jakarta. Tujuan dari penulis mengambil penelitian dan membuat aplikasi ini yaitu dengan harapan dapat membantu Program Studi, Dosen, dan Mahasiswa dalam menyelesain studinya terutama dalam hal yang berkaitan dengan pelayanan PKL dan Skripsi.
+E-Service atau Layanan Online merupakan aplikasi yang dibuat sebagai hasil dari penelitian skripsi dengan objek penelitian yaitu Prodi Sistem Informasi UIN Syarif Hidayatullah Jakarta. Tujuan dari penelitian dan membuat aplikasi ini yaitu dengan harapan dapat membantu Program Studi, Dosen, dan Mahasiswa dalam menyelesain studinya terutama dalam hal yang berkaitan dengan pelayanan PKL dan Skripsi.
 
-Bahasa pemrograman yang saya gunakan dalam pembuatan aplikasi ini yaitu PHP 7.2 dengan framework Codeigniter dan Database Management System menggunakan MySQL. Dalam perancangan struktur database, saya menggunakan tools SAP Power Designer untuk mendapatkan struktur database yang optimal.
+Bahasa pemrograman yang di gunakan dalam pembuatan aplikasi ini yaitu PHP 7.2 dengan framework Codeigniter dan Database Management System menggunakan MySQL. Dalam perancangan struktur database, menggunakan tools SAP Power Designer untuk mendapatkan struktur database yang optimal.
 
 # Tanggal Pembuatan
 
@@ -48,20 +50,24 @@ Fitur yang terdapat pada aplikasi ini diantaranya:
 Library yang di gunakan pada aplikasi ini diantaranya:
 
 - Menggunakan Template Ace Admin.
-- Bootstrap 3.3.6
-- jQuery 2.1.4
-- Font Awesome 4.5.0
-- SweetAlert2 9
+- Bootstrap `3.3.6`
+- jQuery `2.1.4`
+- Font Awesome `4.5.0`
+- SweetAlert2 `9`
 - DataTables
-- Moment.js 2.29.0
+- Moment.js `2.29.0`
 - Select2
 - animate.css
 - Library yang terdapat pada Ace Admin.
 - Dll
 
-# DEMO
+# Dokumentasi Sistem
 
-Untuk demo aplikasi ini bias diakses melalui link berikut [DEMO](http://ies.rf.gd/ "DEMO")
+[Documentation](http://app.helmyfikrih.me/e-service/ "Documentation")
+
+# Demo
+
+Untuk demo aplikasi ini dapat diakses melalui link berikut [DEMO](http://ies.rf.gd/ "DEMO")
 Untuk User yang dapat digunakan:
 
 | Username   | password   | Role      |
@@ -69,10 +75,6 @@ Untuk User yang dapat digunakan:
 | prodisi    | prodisi    | prodi     |
 | hutomoap   | hutomoap   | mahasiswa |
 | 2006067602 | 2006067602 | dosen     |
-
-# Dokumentasi Sistem
-
-[Coming Soon]
 
 # Gallery
 
