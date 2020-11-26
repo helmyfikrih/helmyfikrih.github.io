@@ -15,7 +15,7 @@ documentation:
 
 ![](https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/login.png)
 
-# Pengantar
+# Tentang App
 
 E-Service atau Layanan Online merupakan aplikasi yang dibuat sebagai hasil dari penelitian skripsi dengan objek penelitian yaitu Prodi Sistem Informasi UIN Syarif Hidayatullah Jakarta. Tujuan dari penelitian dan membuat aplikasi ini yaitu dengan harapan dapat membantu Program Studi, Dosen, dan Mahasiswa dalam menyelesain studinya terutama dalam hal yang berkaitan dengan pelayanan PKL dan Skripsi.
 
