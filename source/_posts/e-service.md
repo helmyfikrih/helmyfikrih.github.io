@@ -72,6 +72,7 @@ Untuk User yang dapat digunakan:
 
 | Username   | password   | Role      |
 | ---------- | ---------- | --------- |
+| superadmin | 20mei1996  | admin     |
 | prodisi    | prodisi    | prodi     |
 | hutomoap   | hutomoap   | mahasiswa |
 | 2006067602 | 2006067602 | dosen     |
