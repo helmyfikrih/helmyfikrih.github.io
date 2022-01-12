@@ -1,5 +1,5 @@
 ---
-title: Pengalaman Kerja ke-2
+title: PT. Pertamina Lubricants
 date: 2020-01-30 14:31:59
 categories:
   - EXP

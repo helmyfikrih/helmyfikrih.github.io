@@ -5,15 +5,15 @@
 # Site
 title: Helmy Fikri Husein - Online Profile
 subtitle: ""
-description: "Is A Good Boy."
+description: "Web Developer."
 keywords:
 author: Helmy Fikri Husein
-language: en
+language: id
 timezone: ""
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://app.helmyfikrih.me
+url: https://helmyfikrih.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
