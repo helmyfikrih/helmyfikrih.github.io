@@ -106,3 +106,15 @@ theme: obsidian
 #   repo: https://github.com/helmyfikrih/helmyfikrih.github.io
 #   # example, https://github.com/hexojs/hexojs.github.io
 #   branch: gh-pages
+
+deploy:
+  type: git
+  repo: git@github.com:helmyfikrih/helmyfikrih.github.io.git
+  branch: gh-pages
+  # token: ''
+  message: deploy
+  name: helmyfikrih
+  email: helmyfikrih@gmail.com
+  # extend_dirs: [extend directory]
+  ignore_hidden: false # default is true
+  # ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
