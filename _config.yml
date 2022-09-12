@@ -8,8 +8,8 @@ subtitle: ""
 description: "Web Developer."
 keywords:
 author: Helmy Fikri Husein
-language: id
-timezone: ""
+language: id-ID
+timezone: "Asia/Jakarta"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
@@ -17,9 +17,9 @@ url: https://helmyfikrih.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+# pretty_urls:
+#   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+#   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -49,13 +49,13 @@ highlight:
   line_number: true
   auto_detect: true
   tab_replace: ""
-  wrap: true
-  hljs: false
-prismjs:
-  enable: false
-  preprocess: true
-  line_number: true
-  tab_replace: ""
+  # wrap: true
+  # hljs: false
+# prismjs:
+#   enable: false
+#   preprocess: true
+#   line_number: true
+#   tab_replace: ""
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: obsidian
+theme: replica
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 # deploy:
@@ -106,6 +106,29 @@ theme: obsidian
 #   repo: https://github.com/helmyfikrih/helmyfikrih.github.io
 #   # example, https://github.com/hexojs/hexojs.github.io
 #   branch: gh-pages
+
+#marked setting for markdown
+marked:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
+
+location: Indonesia
+email: helmyfikrih@gmail.com
+
+avatar: https://avatars2.githubusercontent.com/u/14831098?v=4&s=460
+social:
+  github: https://github.com/sabrinaluo
+  weibo: http://weibo.com/206663121
+  linkedin:
+
+# flagcounter
+# flagcounter_href: # https://info.flagcounter.com/xxxx
+# flagcounter_img_src: # https://s01.flagcounter.com/xxxx
 
 deploy:
   type: git
