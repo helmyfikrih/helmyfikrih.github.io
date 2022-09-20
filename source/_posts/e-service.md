@@ -15,41 +15,33 @@ documentation:
 
 ![](https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/login.png)
 
-# Tentang App
+# About App
+E-Service or Online Service is an application created as a result of thesis research with the object of research, namely the Information Systems Study Program at UIN Syarif Hidayatullah Jakarta. The purpose of research and making this application is in the hope of helping Study Programs, Lecturers, and Students in completing their studies, especially in matters relating to PKL and Thesis services.
 
-E-Service atau Layanan Online merupakan aplikasi yang dibuat sebagai hasil dari penelitian skripsi dengan objek penelitian yaitu Prodi Sistem Informasi UIN Syarif Hidayatullah Jakarta. Tujuan dari penelitian dan membuat aplikasi ini yaitu dengan harapan dapat membantu Program Studi, Dosen, dan Mahasiswa dalam menyelesain studinya terutama dalam hal yang berkaitan dengan pelayanan PKL dan Skripsi.
+The programming language used in making this application is PHP 7.2 with Codeigniter framework and Database Management System using MySQL. In designing the database structure, using the SAP Power Designer tools to get the optimal database structure.
 
-Bahasa pemrograman yang di gunakan dalam pembuatan aplikasi ini yaitu PHP 7.2 dengan framework Codeigniter dan Database Management System menggunakan MySQL. Dalam perancangan struktur database, menggunakan tools SAP Power Designer untuk mendapatkan struktur database yang optimal.
-
-# Tanggal Pembuatan
-
+# Developement Date
 > **26/06/2020 – 24/08/2020**
 
-# Fitur
-
-Fitur yang terdapat pada aplikasi ini diantaranya:
-
-- Pengajuan Proposal (PKL dan Skripsi)
-- Proses Bimbingan (PKL dan Skripsi)
-- Pendaftaran (Seminar Hasil Skripsi dan Sidang Skripsi)
-- Penilaian (PKL, Seminar Hasil Skripsi, dan Sidang Skripsi)
-- Perbaikan (Seminar Hasil Skripsi, Sidang Skripsi, dan Judul Proposal)
-- Pengumuman
+# Features
+- Proposal Submission (PKL dan Skripsi)
+- Guidance Process (PKL dan Skripsi)
+- Registration (Seminar Hasil Skripsi dan Sidang Skripsi)
+- Evaluation (PKL, Seminar Hasil Skripsi, dan Sidang Skripsi)
+- corrective (Seminar Hasil Skripsi, Sidang Skripsi, dan Judul Proposal)
+- Announcement
 - Report
-- Unduh Dokumen
-- Alokasi Dosen Peninjau Proposal
-- Dinamis User Role dengan Hak Akses
-- Bidang Keahlian Dosen
-- Kelola Master Data
-- Kelola Profil
-- Notifikasi
-- Dll
+- Download Documents
+- Allocation of Proposal Reviewers
+- Dynamic User Role with Access Rights
+- Lecturer Expertise
+- Manage Master Data
+- Manage Profile
+- Notifications
+- Etc
 
 # Library
-
-Library yang di gunakan pada aplikasi ini diantaranya:
-
-- Menggunakan Template Ace Admin.
+- Template Ace Admin.
 - Bootstrap `3.3.6`
 - jQuery `2.1.4`
 - Font Awesome `4.5.0`
@@ -58,17 +50,15 @@ Library yang di gunakan pada aplikasi ini diantaranya:
 - Moment.js `2.29.0`
 - Select2
 - animate.css
-- Library yang terdapat pada Ace Admin.
-- Dll
+- Libraries contained in Ace Admin.
+- Etc
 
 # Dokumentasi Sistem
-
 [Documentation](http://app.helmyfikrih.me/e-service/ "Documentation")
 
 # Demo
-
-Untuk demo aplikasi ini dapat diakses melalui link berikut [DEMO](http://ies.rf.gd/ "DEMO")
-Untuk User yang dapat digunakan:
+A demo of this application can be accessed via the following link [DEMO](http://ies.rf.gd/ "DEMO")
+For users that can be used:
 
 | Username   | password   | Role      |
 | ---------- | ---------- | --------- |
@@ -78,5 +68,11 @@ Untuk User yang dapat digunakan:
 | 2006067602 | 2006067602 | dosen     |
 
 # Gallery
-
-<div class="row"><img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/10.png" width="200"/> <img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/9.png" width="200"/> <img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/8.png" width="200"/> <img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/7.png" width="200"/> <img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/6.png" width="200"/> <img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/5.png" width="200"/></div>
+<div class="row">
+<img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/10.png" width="200"/> 
+<img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/9.png" width="200"/> 
+<img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/8.png" width="200"/> 
+<img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/7.png" width="200"/> 
+<img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/6.png" width="200"/> 
+<img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/5.png" width="200"/>
+</div>

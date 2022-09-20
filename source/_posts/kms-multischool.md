@@ -10,26 +10,22 @@ cover: https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/lo
 preview: 425
 ---
 
-### Tentang App
+### About App
+Knowledge Management System (KMS) Multischool is a web app application to manage knowledge owned by schools, this application can be used by more than one school. So that between schools can share knowledge with each other.
+This application focuses on teacher knowledge related to teaching materials used to create an even distribution of the quality of teaching staff or teachers who are good and qualified in accordance with teacher competency standards.
 
-Knowledge Management System (KMS) Multischool adalah aplikasi web app untuk mengelola pengetahuan yang dimiliki oleh sekolah, aplikasi ini dapat digunakan oleh lebih dari satu sekolah. Sehingga antar sekolah dapat saling berbagi pengetahuan.
-Aplikasi ini berfokus pada pengetahuan guru terkait bahan ajar yang digunakan untuk menciptakan pemerataan kualitas tenaga ajar atau guru yang baik dan berkualitas sesuai dengan standar kompetensi guru.
+### Features:
+- Knowledge sharing
+- Document sharing
+- Knowledge request
+- Document request
+- Discussion Forum
+- Notes
+- Top user calculation using TOPSIS method
+- Etc
 
-### Fitur pada aplikasi ini antara lain:
-
-- Berbagi pengetahuan
-- Berbagi dokumen
-- Request pengetahuan
-- Request dokumen
-- Forum diskusi
-- Notulensi
-- Perhitungan top user menggunakan
-  metode TOPSIS
-- Dll
-
-### Library yang di gunakan pada aplikasi ini diantaranya:
-
-- Menggunakan Template Ace Admin.
+### Library:
+- Template Ace Admin.
 - Bootstrap 3.3.6
 - jQuery 2.1.4
 - Font Awesome 4.5.0
@@ -38,5 +34,5 @@ Aplikasi ini berfokus pada pengetahuan guru terkait bahan ajar yang digunakan un
 - Moment.js 2.29.0
 - Select2
 - animate.css
-- Library yang terdapat pada Ace Admin.
-- Dll
+- Libraries contained in Ace Admin.
+- Etc
