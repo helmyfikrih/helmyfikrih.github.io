@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>PT. Ericsson Indonesia</title>
+      <link href="/2021/01/01/work_experience_3/"/>
+      <url>/2021/01/01/work_experience_3/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Company-Name"><a href="#Company-Name" class="headerlink" title="Company Name"></a>Company Name</h2><p><code>PT. Ericsson Indonesia</code></p><h2 id="Company-Address"><a href="#Company-Address" class="headerlink" title="Company Address"></a>Company Address</h2><p><code>JL. Sultan Iskandar Muda, V - TA,, Wisma Pondok Indah, 2nd floor, RT.1/RW.16, Pd. Pinang, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12310</code></p><h2 id="Work-Start-End-Date"><a href="#Work-Start-End-Date" class="headerlink" title="Work Start End Date"></a>Work Start End Date</h2><p><code>Jan 2021 s/d Present</code></p><h2 id="Info"><a href="#Info" class="headerlink" title="Info"></a>Info</h2><p>I have a work contract with <code>PT. Elabram System</code> which is a recruitment agency and HR Solution which I was later placed at <code>PT. Ericsson Indonesia</code> as the client. I was placed in the digital project management (DPM) team to handle the ACT (Activity Control &amp; Tracker) application.</p><h2 id="About-ACT"><a href="#About-ACT" class="headerlink" title="About ACT"></a>About ACT</h2><p>Activity Control &amp; Tracker (ACT) is a ticketing platform for Roll-Out Activity. It is provided to secure workflow process and to improve quality of service delivery. ACT provide a bunch of features where all the workflow process are configurable. It will document all activity which being done or haven’t done by the whole team. Including :</p><ul><li>Live Dashboard for Roll Out Management</li><li>Request Creation &amp; Rejection</li><li>Team Delivery Performace</li><li>Problem Mapping Statistic</li></ul><h2 id="Job-Desc"><a href="#Job-Desc" class="headerlink" title="Job Desc"></a>Job Desc</h2><ul><li>Developing the ACT Web App</li><li>Perform a design analysis on a request made by the users</li><li>Fulfilling User Requests</li><li>Bug Fixing</li><li>Database Management dan Monitoring</li><li>Server Maintenance dan Monitoring</li><li>Lead and guide a new developers in my team</li></ul><h2 id="Stack-Tech"><a href="#Stack-Tech" class="headerlink" title="Stack Tech"></a>Stack Tech</h2><ul><li>Programming Language <code>PHP</code> </li><li>Database <code>MySQL</code></li><li>Framework <code>Codeigniter</code></li><li>Cloud Computing <code>Azure</code></li><li>Queue <code>Rabbit MQ</code></li></ul><h2 id="Some-of-My-Works"><a href="#Some-of-My-Works" class="headerlink" title="Some of My Works"></a>Some of My Works</h2><ul><li>Refactor Dynamic User Access (<a href="https://gitlab.com/emadina/ixt/-/merge_requests/291">https://gitlab.com/emadina/ixt/-/merge_requests/291</a>)</li><li>New Field Type Text Rich and Json Table (<a href="https://gitlab.com/emadina/ixt/-/merge_requests/298">https://gitlab.com/emadina/ixt/-/merge_requests/298</a>)</li><li>Custom View Datatables (<a href="https://gitlab.com/emadina/ixt/-/issues/86">https://gitlab.com/emadina/ixt/-/issues/86</a>)</li><li>Custom Report Manager (<a href="https://gitlab.com/emadina/ixt/-/issues/75">https://gitlab.com/emadina/ixt/-/issues/75</a>)</li><li>MySQL Load Distribution (<a href="https://gitlab.com/emadina/ixt/-/issues/150">https://gitlab.com/emadina/ixt/-/issues/150</a>)</li><li>SLA Calculation by Office Hour and Time Zone (<a href="https://gitlab.com/emadina/ixt/-/issues/101">https://gitlab.com/emadina/ixt/-/issues/101</a>)</li><li>Site Directory (<a href="https://gitlab.com/emadina/ixt/-/issues/186">https://gitlab.com/emadina/ixt/-/issues/186</a>)</li><li>Dashboard to Show Power BI data view (<a href="https://gitlab.com/emadina/ixt/-/issues/254">https://gitlab.com/emadina/ixt/-/issues/254</a>)</li><li>User Experience : New Ways of working with Ticket Work Page (<a href="https://gitlab.com/emadina/ixt/-/issues/252">https://gitlab.com/emadina/ixt/-/issues/252</a>)</li><li>Service Bus Ability to Re-Auto Open due system Failure (<a href="https://gitlab.com/emadina/ixt/-/issues/281">https://gitlab.com/emadina/ixt/-/issues/281</a>)</li><li>Upgarade Server Disk (<a href="https://gitlab.com/emadina/ixt/-/issues/301">https://gitlab.com/emadina/ixt/-/issues/301</a>)</li><li>Rejecting Flow Ticket: will not generate new ticket after ticket is being rejected (turning off reject flow in root panel) (<a href="https://gitlab.com/emadina/ixt/-/issues/322">https://gitlab.com/emadina/ixt/-/issues/322</a>)</li><li>Move Old Android API to CI (<a href="https://gitlab.com/emadina/ixt/-/issues/257">https://gitlab.com/emadina/ixt/-/issues/257</a>)</li><li>Change Method to Check PROD Domain Using Global Define (<a href="https://gitlab.com/emadina/ixt/-/issues/369">https://gitlab.com/emadina/ixt/-/issues/369</a>)</li><li>Consolidate report for Project (<a href="https://gitlab.com/emadina/ixt/-/issues/360">https://gitlab.com/emadina/ixt/-/issues/360</a>)</li><li>Increase Document Max File Size (<a href="https://gitlab.com/emadina/ixt/-/issues/381">https://gitlab.com/emadina/ixt/-/issues/381</a>)</li><li>Optimize Service Bus Load Data (<a href="https://gitlab.com/emadina/ixt/-/issues/392">https://gitlab.com/emadina/ixt/-/issues/392</a>)</li><li>Notification Subscriber (<a href="https://gitlab.com/emadina/ixt/-/issues/394">https://gitlab.com/emadina/ixt/-/issues/394</a>)</li><li>Impersonate User Session (<a href="https://dev.azure.com/ericsson/DPM/_workitems/edit/97724/">https://dev.azure.com/ericsson/DPM/_workitems/edit/97724/</a>)</li><li>Upload File Dynamic Function (<a href="https://dev.azure.com/ericsson/DPM/_workitems/edit/93239/">https://dev.azure.com/ericsson/DPM/_workitems/edit/93239/</a>)</li><li>ACT - External Integration</li><li>Live ASP Potition Tracking (<a href="https://dev.azure.com/ericsson/DPM/_workitems/edit/88676/">https://dev.azure.com/ericsson/DPM/_workitems/edit/88676/</a>)</li><li>Export Site Data Files (<a href="https://gitlab.com/emadina/ixt/-/issues/410">https://gitlab.com/emadina/ixt/-/issues/410</a>)</li><li>Etc.</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> EXP </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PHP </tag>
+            
+            <tag> Codeigniter </tag>
+            
+            <tag> Work-Exp </tag>
+            
+            <tag> Azure </tag>
+            
+            <tag> MySQL </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>E-Service System</title>
+      <link href="/2020/11/19/e-service/"/>
+      <url>/2020/11/19/e-service/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/login.png"></p><h1 id="About-App"><a href="#About-App" class="headerlink" title="About App"></a>About App</h1><p>E-Service or Online Service is an application created as a result of thesis research with the object of research, namely the Information Systems Study Program at UIN Syarif Hidayatullah Jakarta. The purpose of research and making this application is in the hope of helping Study Programs, Lecturers, and Students in completing their studies, especially in matters relating to PKL and Thesis services.</p><p>The programming language used in making this application is PHP 7.2 with Codeigniter framework and Database Management System using MySQL. In designing the database structure, using the SAP Power Designer tools to get the optimal database structure.</p><h1 id="Developement-Date"><a href="#Developement-Date" class="headerlink" title="Developement Date"></a>Developement Date</h1><blockquote><p><strong>26/06/2020 – 24/08/2020</strong></p></blockquote><h1 id="Features"><a href="#Features" class="headerlink" title="Features"></a>Features</h1><ul><li>Proposal Submission (PKL dan Skripsi)</li><li>Guidance Process (PKL dan Skripsi)</li><li>Registration (Seminar Hasil Skripsi dan Sidang Skripsi)</li><li>Evaluation (PKL, Seminar Hasil Skripsi, dan Sidang Skripsi)</li><li>corrective (Seminar Hasil Skripsi, Sidang Skripsi, dan Judul Proposal)</li><li>Announcement</li><li>Report</li><li>Download Documents</li><li>Allocation of Proposal Reviewers</li><li>Dynamic User Role with Access Rights</li><li>Lecturer Expertise</li><li>Manage Master Data</li><li>Manage Profile</li><li>Notifications</li><li>Etc</li></ul><h1 id="Library"><a href="#Library" class="headerlink" title="Library"></a>Library</h1><ul><li>Template Ace Admin.</li><li>Bootstrap <code>3.3.6</code></li><li>jQuery <code>2.1.4</code></li><li>Font Awesome <code>4.5.0</code></li><li>SweetAlert2 <code>9</code></li><li>DataTables</li><li>Moment.js <code>2.29.0</code></li><li>Select2</li><li>animate.css</li><li>Libraries contained in Ace Admin.</li><li>Etc</li></ul><h1 id="Dokumentasi-Sistem"><a href="#Dokumentasi-Sistem" class="headerlink" title="Dokumentasi Sistem"></a>Dokumentasi Sistem</h1><p><a href="http://app.helmyfikrih.me/e-service/" title="Documentation">Documentation</a></p><h1 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h1><p>A demo of this application can be accessed via the following link <a href="http://ies.rf.gd/" title="DEMO">DEMO</a><br>For users that can be used:</p><table><thead><tr><th>Username</th><th>password</th><th>Role</th></tr></thead><tbody><tr><td>superadmin</td><td>20mei1996</td><td>admin</td></tr><tr><td>prodisi</td><td>prodisi</td><td>prodi</td></tr><tr><td>hutomoap</td><td>hutomoap</td><td>mahasiswa</td></tr><tr><td>2006067602</td><td>2006067602</td><td>dosen</td></tr></tbody></table><h1 id="Gallery"><a href="#Gallery" class="headerlink" title="Gallery"></a>Gallery</h1><div class="row"><img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/10.png" width="200"/> <img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/9.png" width="200"/> <img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/8.png" width="200"/> <img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/7.png" width="200"/> <img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/6.png" width="200"/> <img style="display: static;" src="https://gitlab.com/helmyfikrih/portofolio-image/-/raw/master/e_service/5.png" width="200"/></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> WEB-APP </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PHP </tag>
+            
+            <tag> Codeigniter </tag>
+            
+            <tag> Documentation </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>KMS Multi School</title>
+      <link href="/2020/05/19/kms-multischool/"/>
+      <url>/2020/05/19/kms-multischool/</url>
+      
+        <content type="html"><![CDATA[<h3 id="About-App"><a href="#About-App" class="headerlink" title="About App"></a>About App</h3><p>Knowledge Management System (KMS) Multischool is a web app application to manage knowledge owned by schools, this application can be used by more than one school. So that between schools can share knowledge with each other.<br>This application focuses on teacher knowledge related to teaching materials used to create an even distribution of the quality of teaching staff or teachers who are good and qualified in accordance with teacher competency standards.</p><h3 id="Features"><a href="#Features" class="headerlink" title="Features:"></a>Features:</h3><ul><li>Knowledge sharing</li><li>Document sharing</li><li>Knowledge request</li><li>Document request</li><li>Discussion Forum</li><li>Notes</li><li>Top user calculation using TOPSIS method</li><li>Etc</li></ul><h3 id="Library"><a href="#Library" class="headerlink" title="Library:"></a>Library:</h3><ul><li>Template Ace Admin.</li><li>Bootstrap 3.3.6</li><li>jQuery 2.1.4</li><li>Font Awesome 4.5.0</li><li>SweetAlert2 9</li><li>DataTables</li><li>Moment.js 2.29.0</li><li>Select2</li><li>animate.css</li><li>Libraries contained in Ace Admin.</li><li>Etc</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> WEB-APP </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PHP </tag>
+            
+            <tag> Codeigniter </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PT. Pertamina Lubricants</title>
+      <link href="/2020/01/30/work_experience_2/"/>
+      <url>/2020/01/30/work_experience_2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Company-Name"><a href="#Company-Name" class="headerlink" title="Company Name"></a>Company Name</h2><p><code>PT. Pertamina Lubricants</code></p><h2 id="Location"><a href="#Location" class="headerlink" title="Location"></a>Location</h2><p><code>M.H Thamrin, Jakarta Pusat, DKI Jakarta</code></p><h2 id="Work-Start-End-Date"><a href="#Work-Start-End-Date" class="headerlink" title="Work Start End Date"></a>Work Start End Date</h2><p><code>November 2019 s/d Januari 2020</code></p><h2 id="Job-Desc"><a href="#Job-Desc" class="headerlink" title="Job Desc"></a>Job Desc</h2><p>As a System Support, I get tasks directly from the <em>direct supervisor</em>. The task given is to create a Web App or develop an existing Web App that is used to assist field operations and management. The web system that I created uses the PHP programming language with the Codeigniter Framework and MySQL Database.</p><h2 id="Apps-Developed"><a href="#Apps-Developed" class="headerlink" title="Apps Developed"></a>Apps Developed</h2><ul><li>Program Bundling</li><li>Stock Opname</li><li>BAST GAO</li><li>Direct Selling</li><li>SIMPEG</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> EXP </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PHP </tag>
+            
+            <tag> Codeigniter </tag>
+            
+            <tag> Work-Exp </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PT. Sigma Cipta Caraka</title>
+      <link href="/2019/06/30/work_experience/"/>
+      <url>/2019/06/30/work_experience/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Company-Name"><a href="#Company-Name" class="headerlink" title="Company Name"></a>Company Name</h2><p><code>PT. Sigma Cipta Caraka</code> <code>(Telkom Sigma)</code></p><h2 id="Location"><a href="#Location" class="headerlink" title="Location"></a>Location</h2><p><code>BSD, Tangerang Selatan, Banten</code></p><h2 id="Work-Start-End-Date"><a href="#Work-Start-End-Date" class="headerlink" title="Work Start End Date"></a>Work Start End Date</h2><p><code>Desember 2018 s/d Juli 2019</code></p><h2 id="Job-Desc"><a href="#Job-Desc" class="headerlink" title="Job Desc"></a>Job Desc</h2><p>As a PHP Programmer with the maintenance team, I handle the <code>MForce</code> project with the client of the project  <code>PT.Pertamina Lubricants</code>. Apart from handling programming, I also handle deployment, bug fixing.</p><h2 id="CR-Customer-Request"><a href="#CR-Customer-Request" class="headerlink" title="CR (Customer Request)"></a>CR (Customer Request)</h2><h3 id="Delivery-Order"><a href="#Delivery-Order" class="headerlink" title="Delivery Order"></a>Delivery Order</h3><blockquote><p>Added Delivery Order Feature from taking orders in the system, including delivery order tracking, visit analysis, delivery order reports, delivery order allocation, etc.</p></blockquote><h3 id="Kanvasing"><a href="#Kanvasing" class="headerlink" title="Kanvasing"></a>Kanvasing</h3><blockquote><p>Added Canvasing Feature, where salesmen can bring and sell products directly to outlets, including Sales Allocation, Canvasing Request, Canvasing Inquiry, Canvasing Return, Canvasing Order Tracking, Reporting, etc.</p></blockquote><h3 id="Program-Promo"><a href="#Program-Promo" class="headerlink" title="Program Promo"></a>Program Promo</h3><blockquote><p>Adding Promotion Program Features to allocated outlets, including Create Program Promo, Mandatory Outlets, Target Outlets and Promo Program Realization, Reporting, etc.</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> EXP </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PHP </tag>
+            
+            <tag> Codeigniter </tag>
+            
+            <tag> Work-Exp </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
