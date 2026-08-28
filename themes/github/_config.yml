@@ -1,0 +1,36 @@
+# left-side user profile
+avatar: # by default https://octodex.github.com/images/baracktocat.jpg
+location:
+email:
+social:
+  github:
+  weibo:
+  linkedin:
+
+# navbar menu
+menu:
+ archives: true
+ tags: true
+ categories: true
+
+rss_dir: atom.xml
+
+# widget
+ga: # google analytics tracking code UA-XXXXXXX-X
+baidutongji: # baidutongji tracking code
+duoshuo: # duoshuo username
+gsc: 9298f7a84bbaa4432 # google custom search code
+
+# flagcounter
+flagcounter_href: # https://info.flagcounter.com/xxxx
+flagcounter_img_src: # https://s01.flagcounter.com/xxxx
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
