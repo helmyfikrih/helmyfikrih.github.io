@@ -1,86 +1,59 @@
 # helmyfikrih.github.io
 
-Source blog & portfolio pribadi berbasis **Hexo**.
+Source code blog & online profile berbasis **Hexo**.
 
 ---
 
-## Struktur Branch
+## 🚀 Alur Kerja / Deploy Otomatis (CI/CD)
 
-- **`develop`** (atau `main`): Tempat source code Markdown, konfigurasi, dan assets.
-- **`gh-pages`**: Tempat file static HTML hasil build (`hexo generate`) yang di-host langsung oleh GitHub Pages.
+Project ini sudah dilengkapi **GitHub Actions**. Kamu **tidak perlu build manual** di local.
 
-> **Catatan Penting:** Semua postingan portofolio dan tulisan Anda yang lengkap ada di branch **`develop`**. Kerjakan update di branch tersebut.
+Cukup edit/tambah konten markdown di branch **`main`**, lalu **push ke GitHub**. GitHub Actions akan otomatis melakukan:
+1. Build Hexo (`hexo generate`)
+2. Deploy hasil static HTML ke branch `gh-pages`
 
 ---
 
-## Cara Menambah / Update Portfolio
+## 📝 Cara Tambah / Edit Portfolio
 
-### 1. Masuk ke Branch Kerja
-```bash
-git checkout develop
-git pull origin develop
-```
+### 1. Tambah Post Baru
+Buat file markdown baru di folder `source/_posts/nama-project.md`:
 
-### 2. Buat File Post / Portofolio Baru
-
-Buat file baru di folder `source/_posts/nama-project.md` atau gunakan command:
-```bash
-npx hexo new post "Nama Project"
-```
-
-Format Front-Matter di bagian atas file:
 ```markdown
 ---
-title: Nama Project / Portfolio
-date: 2026-08-28 10:00:00
+title: Judul Project
+date: 2026-08-28 12:00:00
 categories:
   - WEB-APP
 tags:
   - React
   - Node.js
-cover: https://link-gambar-cover.jpg
+cover: https://link-gambar-thumbnail.jpg
 ---
 
-Tulis deskripsi, tech stack, screenshot, dan link project di sini.
+Deskripsi detail project, tantangan, dan teknologi yang digunakan.
 ```
 
----
-
-## Cara Menjalankan & Preview Lokal
-
-1. Install dependensi (jika belum):
-   ```bash
-   npm install
-   ```
-2. Jalankan server lokal:
-   ```bash
-   npm run server
-   ```
-   Buka browser: `http://localhost:4000`
-
----
-
-## Cara Build & Deploy ke GitHub Pages
-
-Hexo sudah dikonfigurasi untuk langsung build dan push ke branch `gh-pages`:
-
-```bash
-# 1. Bersihkan build lama
-npm run clean
-
-# 2. Generate file statis & deploy langsung ke branch gh-pages
-npm run deploy
-```
-
-> **Catatan:** `npm run deploy` akan menjalankan `hexo generate --deploy` yang otomatis mengupdate branch `gh-pages` di GitHub.
-
----
-
-## Simpan Source Code
-
-Setelah deploy, jangan lupa simpan perubahan markdown ke branch repo:
+### 2. Simpan dan Push ke GitHub
 ```bash
 git add .
-git commit -m "Add portfolio: Nama Project"
-git push origin develop
+git commit -m "Add portfolio: Judul Project"
+git push origin main
 ```
+Dalam 1-2 menit, website di `https://helmyfikrih.github.io` otomatis terupdate.
+
+---
+
+## 💻 Menjalankan di Lokal (Opsional / Preview)
+
+Jika ingin melihat tampilan sebelum push:
+
+```bash
+# Pastikan Node.js v18 terpasang
+npm install
+
+# Jalankan local server
+npx hexo server
+```
+Buka di browser: `http://localhost:4000`
+
